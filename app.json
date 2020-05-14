@@ -1,0 +1,19 @@
+{
+  "id": "cce888d6-f785-4b44-bfd1-a668ef8c04c1",
+  "name": "66.LogicalAndRelationalExpressions",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "screenshots": [],
+  "platform": "15.0.0.0",
+  "application": "15.0.0.0",
+  "showMyCode": true,
+  "runtime": "4.0",
+  "target": "OnPrem"
+}
